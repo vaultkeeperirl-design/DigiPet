@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/savegame.json
+data/test_save.json
+debug_*.png
+final_verification.png
